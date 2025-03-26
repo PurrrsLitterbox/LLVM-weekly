@@ -1,7 +1,8 @@
 # Download Check latest release [here](https://github.com/purrrslitterbox/clang-stable/releases/latest)
 
 # Installation
-```bash rm -rf $HOME/.kaleidoscope
+```bash
+rm -rf $HOME/.kaleidoscope
 mkdir $HOME/.kaleidoscope
 tar xf clang.tar.zst -C $HOME/.kaleidoscope
 echo "export PATH=$HOME/.kaleidoscope/bin:$PATH" >> ~/.bashrc
@@ -9,7 +10,8 @@ source $HOME/.bashrc
 clang --version ``` 
 
 # Features 
-``` ==> Minimal LLVM LLVM_VERSION targeting 'AArch64', 'ARM', and 'X86'
+```
+==> Minimal LLVM LLVM_VERSION targeting 'AArch64', 'ARM', and 'X86'
 ==> Stripped binaries
 ==> Download size SIZEMB
 ==> Compressed tar archive with zstd v1.5.7
