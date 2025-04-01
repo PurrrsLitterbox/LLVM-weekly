@@ -1,10 +1,10 @@
-# Download Check latest release [here](https://github.com/purrrslitterbox/clang-releases/releases/latest)
+# Download 
+Check latest release [here](https://github.com/purrrslitterbox/clang-releases/releases/latest)
 
 # Installation
 ```bash
-rm -rf $HOME/.kaleidoscope
 mkdir $HOME/.kaleidoscope
-tar xf clang.tar.zst -C $HOME/.kaleidoscope
+tar -xf clang.tar.zst -C $HOME/.kaleidoscope
 echo "export PATH=$HOME/.kaleidoscope/bin:$PATH" >> ~/.bashrc
 source $HOME/.bashrc
 clang --version
