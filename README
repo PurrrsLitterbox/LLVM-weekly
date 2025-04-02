@@ -10,7 +10,7 @@ Built every sunday on 07:00 WIB/00:00 UTC
 
 ```bash
 mkdir $HOME/.kaleidoscope
-tar xf clang.tar.zst -C $HOME/.kaleidoscope
+tar -xf clang.tar.zst -C $HOME/.kaleidoscope
 echo "export PATH=$HOME/.kaleidoscope/bin:$PATH" >> ~/.bashrc
 source $HOME/.bashrc
 clang --version
