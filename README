@@ -1,8 +1,10 @@
 
 # Note for All Users
 ```
-Weekly updates, check latestlink.txt files for latest release.
-This clang releases is following LLVM Project's main branch, which may contains unstable commits, use with cautions!
+Weekly updates, check latestlink.txt file for latest release.
+This clang releases is following LLVM Project's main branch.
+Which may contains unstable commits.
+Use with cautions!
 Built every sunday on 07:00 WIB/00:00 UTC
 ```
 
