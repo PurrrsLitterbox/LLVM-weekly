@@ -1,1 +1,1 @@
-https://github.com/PurrrsLitterbox/clang-releases/releases/download/20250402-2130-WIB/clang.tar.zst
+https://github.com/PurrrsLitterbox/clang-releases/releases/download/20250403-0652-WIB/clang.tar.zst
