@@ -1,6 +1,6 @@
 # Note for All Users
 
-Weekly updates, check [latestlink.txt](https://raw.githubusercontent.com/PurrrsLitterbox/clang-releases/refs/heads/main/latestlink.txt) file for latest release.
+Weekly updates, check [latestlink.txt](https://raw.githubusercontent.com/PurrrsLitterbox/LLVM-weekly/refs/heads/main/latestlink.txt) file for latest release.
 
 This clang releases is following LLVM Project's main branch, which may contains unstable commits. Use with cautions!
 
