@@ -1,10 +1,10 @@
 # Note for All Users
 
-Weekly updates, check [latestlink.txt](https://raw.githubusercontent.com/PurrrsLitterbox/LLVM-weekly/refs/heads/main/latestlink.txt) file for latest release.
+Weekly updates, simply curl [latestlink.txt](https://raw.githubusercontent.com/PurrrsLitterbox/LLVM-weekly/refs/heads/main/latestlink.txt) file from your shell scripts to download latest release.
 
 This clang releases is following LLVM Project's main branch, which may contains unstable commits. Use with cautions!
 
-Built every sunday on 07:00 WIB/00:00 UTC
+Build started every sunday on 07:00 WIB/00:00 UTC
 
 # Installation
 
@@ -18,13 +18,15 @@ clang --version
 
 # Features
 
-==> Minimal LLVM 21.0.0git targeting 'AArch64', 'ARM', and 'X86'
+==> Minimal LLVM 21.0.0 targeting 'AArch64', 'ARM', and 'X86'
+
+==> GLibC version 2.41
 
 ==> Stripped binaries
 
 ==> Download size 236MB
 
-==> Compressed tar archive with zstd v1.5.7
+==> Highly compressed tar archive with ZSTD
 
 ==> Build LLVM Polly & LLD
 
