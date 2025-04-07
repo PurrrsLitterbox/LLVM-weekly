@@ -28,7 +28,7 @@ clang --version
 
 ==> Download size SIZEMB
 
-==> Highly compressed tar archive with ZSTD
+==> Compressed tar archive with ZSTD
 
 ==> Build LLVM Polly & LLD
 
