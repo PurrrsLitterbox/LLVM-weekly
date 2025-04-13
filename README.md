@@ -1,3 +1,5 @@
+# Build is paused indefinitely due to the expiration of our server's livespan
+
 # Note for All Users
 
 Weekly updates, simply curl [latestlink.txt](https://raw.githubusercontent.com/PurrrsLitterbox/LLVM-weekly/refs/heads/main/latestlink.txt) file from your shell scripts to download latest release.
