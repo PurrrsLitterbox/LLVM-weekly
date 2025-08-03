@@ -1,1 +1,1 @@
-https://github.com/PurrrsLitterbox/LLVM-weekly/releases/download/20250727-0814-WIB/clang.tar.zst
+https://github.com/PurrrsLitterbox/LLVM-weekly/releases/download/20250803-0818-WIB/clang.tar.zst
