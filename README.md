@@ -26,7 +26,7 @@ clang --version
 
 ==> Stripped binaries
 
-==> Download size 259MB
+==> Download size 232MB
 
 ==> Compressed tar archive with ZSTD
 
