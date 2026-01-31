@@ -18,7 +18,7 @@ clang --version
 
 # Features
 
-==> Minimal LLVM 22.0.0git targeting 'AArch64', 'ARM', and 'X86'
+==> Minimal LLVM 23.0.0git targeting 'AArch64', 'ARM', and 'X86'
 
 ==> Shipped with Binutils version 2.44
 
@@ -26,7 +26,7 @@ clang --version
 
 ==> Stripped binaries
 
-==> Download size 269MB
+==> Download size 278MB
 
 ==> Compressed tar archive with ZSTD
 
